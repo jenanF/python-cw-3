@@ -2,7 +2,7 @@
 favorite_animals = ["cat", "fish", "dog", "monkey"]
 print(favorite_animals)
 print(favorite_animals[1])
-favorite_animals.pop(2)
+favorite_animals.remove("dog")
 print(favorite_animals)
 
 # PART 2
